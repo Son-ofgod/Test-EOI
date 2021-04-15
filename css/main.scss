@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&family=Roboto+Slab&display=swap");
+body {
+  margin: 0;
+  background: rgb(15, 15, 15);
+  color: white;
+  font-family: "Nunito", sans-serif;
+  text-align: center;
+}
+h1,
+h2,
+h3 {
+  margin-top: 0;
+  margin-bottom: 2em;
+}
+h1 {
+  color: #d12f2f;
+  font-size: 50px;
+}
+h3 {
+  color: rgb(236, 240, 241);
+}
+p {
+  color: aliceblue;
+  margin-top: 0;
+}
+Button {
+  text-align: center;
+  border: 1px solid #d12f2f;
+}
+btn1 {
+}
